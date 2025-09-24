@@ -1,20 +1,51 @@
-<h1 align="center">Hi 👋, I'm Mohammed Noor</h1>
-<h3 align="center">A fullstack engineer from India</h3>
+# Hi, I'm Mohammed Noor (or) Sigmabond👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sigmabond01&label=Profile%20views&color=0e75b6&style=flat" alt="sigmabond01" /> </p>
+🚀 Electrical Engineering student | 💻 Full Stack Developer | 🌏 Learning Japanese  
 
-<p align="left"> <a href="https://twitter.com/sigmabond01" target="blank"><img src="https://img.shields.io/twitter/follow/sigmabond01?logo=twitter&style=for-the-badge" alt="sigmabond01" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sigmabond01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sigmabond01" height="30" width="40" /></a>
-</p>
+## 🔧 Tech Stack
+- **Languages:** C, C++, JavaScript, TypeScript  
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Node.js, Express, MongoDB  
+- **Other:** Git, REST APIs  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sigmabond01&show_icons=true&locale=en&layout=compact" alt="sigmabond01" /></p>
+## 📚 Currently
+- 🚢 Building: [Oversin](https://github.com/Sigmabond01/Oversin)  
+- 📈 Learning: Backend + Deep DSA  
+- ✍️ Blogging on: [SigmaBlog](https://github.com/Sigmabond01/SigmaBlog)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sigmabond01&show_icons=true&locale=en" alt="sigmabond01" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sigmabond01&" alt="sigmabond01" /></p>
+## ✨ Featured Projects
+- 🎴 [Kotonami](https://github.com/Sigmabond01/Kotonami) – Anime hub project  
+- 📅 [Kiban v2](https://github.com/Sigmabond01/Kiban) – Fullstack productivity tool  
+- 🕊️ [Oversin](https://github.com/Sigmabond01/Oversin) – Personal sin-tracking app  
+
+---
+
+## 🌱 Goals 2025
+- ⚡ Be consistent 
+- 💻 Ship 10+ high-quality fullstack projects  
+- 📝 Grow community on X  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sigmabond01&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigmabond01&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Sigmabond01&theme=radical)  
+
+---
+
+## 📫 Connect with me
+- 🐦 X: [@Sigmabond01](https://x.com/Sigmabond01)  
+- 💼 LinkedIn: [Mohammed Noor](https://www.linkedin.com/in/shaik-noorullah-%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%8C%E3%83%BC%E3%83%AB%E3%83%83%E3%83%A9-b6a548321/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B5elLWQvPS9%2ByIacWTbEilw%3D%3D)  
+- 🌐 Portfolio: [Soon] 
+
+---
+
+⭐️ From [Sigmabond01](https://github.com/Sigmabond01)
+
