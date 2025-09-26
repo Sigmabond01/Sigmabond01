@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Noor (or) Sigmabond👋  
 
-🚀 Electrical Engineering student | 💻 Full Stack Developer | 🌏 Learning Japanese  
+19 | Developer | Learning Japanese
 
 ---
 
