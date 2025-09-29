@@ -43,7 +43,7 @@
 ## 📫 Connect with me
 - 🐦 X: [@Sigmabond01](https://x.com/Sigmabond01)  
 - 💼 LinkedIn: [Mohammed Noor](https://www.linkedin.com/in/shaik-noorullah-%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%8C%E3%83%BC%E3%83%AB%E3%83%83%E3%83%A9-b6a548321/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3B5elLWQvPS9%2ByIacWTbEilw%3D%3D)  
-- 🌐 Portfolio: [Soon] 
+- 🌐 Portfolio: [Sigmabond-portfolio](sigmabond-portfolio.vercel.app)
 
 ---
 
